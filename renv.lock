@@ -205,6 +205,18 @@
       "Repository": "CRAN",
       "Hash": "bb0eec2fe32e88d9e2836c2f73ea2077"
     },
+    "estcomp": {
+      "Package": "estcomp",
+      "Version": "0.0.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "tereom",
+      "RemoteRepo": "estcomp",
+      "RemoteRef": "master",
+      "RemoteSha": "817f7e20ab82bffd064db4ccd68f5303a72844e5",
+      "Hash": "f64207bcd264010f67bca6ba0f17633c"
+    },
     "evaluate": {
       "Package": "evaluate",
       "Version": "0.14",
